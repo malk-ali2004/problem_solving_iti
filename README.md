@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/malk-ali2004/problem_solving_iti/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/malk-ali2004/problem_solving_iti/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/malk-ali2004/problem_solving_iti/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
@@ -13,6 +14,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/malk-ali2004/problem_solving_iti/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/malk-ali2004/problem_solving_iti/tree/master/0204-count-primes) |
 ## Enumeration
 |  |
