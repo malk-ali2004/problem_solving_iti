@@ -11,10 +11,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/malk-ali2004/problem_solving_iti/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/malk-ali2004/problem_solving_iti/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/malk-ali2004/problem_solving_iti/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/malk-ali2004/problem_solving_iti/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/malk-ali2004/problem_solving_iti/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/malk-ali2004/problem_solving_iti/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/malk-ali2004/problem_solving_iti/tree/master/0204-count-primes) |
@@ -38,6 +40,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/malk-ali2004/problem_solving_iti/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/malk-ali2004/problem_solving_iti/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
